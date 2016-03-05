@@ -1,1 +1,5 @@
 .idea/
+*.class
+!app/mix/user/*.txt
+app/**/*.js
+
